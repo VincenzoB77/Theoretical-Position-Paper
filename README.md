@@ -1,15 +1,15 @@
-# A Theoretical Position Paper  
+# 📘 *A Theoretical Position Paper*  
 **Vincenzo Bumbalo, MD — Analytical Psychologist & Independent Scholar**
 
 ---
 
-## 1. The Problem: What Contemporary Psychology Still Misses
+## 1. **The Problem: What Contemporary Psychology Still Misses**
 
 Contemporary psychology describes adult functioning through traits, symptoms, and developmental tasks, yet it lacks a unified account of how adults sustain a coherent sense of self across the ordinary flow of life.
 
-Narrative theory explains meaning.  
-Attachment theory explains regulation.  
-Phenomenology explains experience.  
+- Narrative theory explains **meaning**  
+- Attachment theory explains **regulation**  
+- Phenomenology explains **experience**
 
 But these frameworks remain fragmented.
 
@@ -18,11 +18,11 @@ And this maintenance is neither automatic nor guaranteed.
 
 ---
 
-## 2. The Proposal: A Unified Framework of Adult Selfhood
+## 2. **The Proposal: A Unified Framework of Adult Selfhood**
 
 The **Bumbalo Framework** introduces a new architecture of the adult self, integrating narrative, relational, and phenomenological dimensions into a single model.
 
-### Three Foundational Propositions
+### **Three Foundational Propositions**
 
 1. **The adult self is a construction, not an inheritance.**  
 2. **Continuity is the central psychological achievement of adulthood.**  
@@ -32,26 +32,26 @@ This reframes adult psychology not as a collection of traits, but as a **dynamic
 
 ---
 
-## 3. The Three Core Concepts of the Framework
+## 3. **The Three Core Concepts of the Framework**
 
-### 1. Internal Continuity  
+### 1. **Internal Continuity**  
 The capacity to experience oneself as the same person across time, context, and transformation.  
 It is not stability of circumstances, but stability of *self‑experience*.  
 It is the invisible architecture that allows adults to wake each morning as themselves.
 
-### 2. Egocentric Language  
+### 2. **Egocentric Language**  
 The internal linguistic activity through which adults organize experience, regulate meaning, and maintain coherence.  
 Egocentric language is not childish residue; it is the adult mind’s continuous work of self‑orientation.  
 It is **the grammar of continuity**.
 
-### 3. The Ordinary Micro‑Ecology  
+### 3. **The Ordinary Micro‑Ecology**  
 The rhythms, routines, relational recognitions, and embodied patterns of daily life that function as the adult holding environment.  
 Ordinariness is not triviality; it is **the scaffolding of identity**.  
 The self persists because daily life quietly sustains it.
 
 ---
 
-## 4. What This Framework Makes Visible
+## 4. **What This Framework Makes Visible**
 
 The Bumbalo Framework reveals phenomena that previously appeared disconnected:
 
@@ -66,7 +66,7 @@ This model offers a new lens for understanding adult development, psychopatholog
 
 ---
 
-## 5. Clinical and Theoretical Implications
+## 5. **Clinical and Theoretical Implications**
 
 - Identity disturbance becomes a **failure of continuity**, not a failure of personality.  
 - Therapy becomes a site for **reconstructing the architecture of the self**.  
@@ -77,15 +77,18 @@ This framework restores dignity and depth to the psychology of adulthood.
 
 ---
 
-## 6. The Closing Position
+## 6. **The Closing Position**
 
-**“The adult self persists because it narrates, regulates, and recognizes itself through the ordinary.”**
+> **“The adult self persists because it narrates, regulates, and recognizes itself through the ordinary.”**
 
 ---
 
-## Copyright Notice
+## © **Copyright Notice**
 
-© 2026 Vincenzo Bumbalo. All rights reserved.  
-This theoretical position paper and all associated concepts (Internal Continuity, Egocentric Language, Ordinary Micro‑Ecology, and the Bumbalo Framework) are the intellectual property of the author.  
+© 2026 **Vincenzo Bumbalo**. All rights reserved.  
+This theoretical position paper and all associated concepts (*Internal Continuity, Egocentric Language, Ordinary Micro‑Ecology,* and *the Bumbalo Framework*) are the intellectual property of the author.  
 No part of this document may be reproduced, distributed, or used without explicit written permission.
----
+
+
+
+
