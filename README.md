@@ -12,6 +12,7 @@ Contemporary psychology describes adult functioning through traits, symptoms, an
 - Phenomenology explains **experience**
 
 But these frameworks remain fragmented.
+What is missing is an integrated model capable of explaining how adults remain themselves across time, context, and transformation.
 
 **Adults do not simply “have” a self; they maintain it.**  
 And this maintenance is neither automatic nor guaranteed.
@@ -28,7 +29,7 @@ The **Bumbalo Framework** introduces a new architecture of the adult self, integ
 2. **Continuity is the central psychological achievement of adulthood.**  
 3. **Ordinary life is the primary environment in which identity is sustained.**
 
-This reframes adult psychology not as a collection of traits, but as a **dynamic system of coherence**.
+This model reframes adult psychology not as a collection of traits, but as a **dynamic system of coherence**.
 
 ---
 
