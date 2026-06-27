@@ -1,5 +1,5 @@
 # 📘 *A Theoretical Position Paper*  
-**Vincenzo Bumbalo, MD — Analytical Psychologist & Independent Scholar**
+**Vincenzo Bumbalo, MD — Analytical Psychotherapist & Independent Scholar**
 
 ---
 
